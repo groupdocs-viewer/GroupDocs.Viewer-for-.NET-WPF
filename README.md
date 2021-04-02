@@ -2,7 +2,6 @@
 # GroupDocs.Viewer for .NET WPF Example
 ###### version 1.0.0
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ce8rk88mwysa4mkr/branch/main?svg=true)](https://ci.appveyor.com/project/mikhail-evgrafov/groupdocs-viewer-for-net-wpf/branch/main)
 [![GitHub license](https://img.shields.io/github/license/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WebForms.svg)](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WebForms/blob/master/LICENSE)
 
 ## System Requirements
