@@ -1,7 +1,7 @@
 ![Alt text](https://raw.githubusercontent.com/groupdocs-viewer/groupdocs-viewer.github.io/master/resources/image/banner.png "GroupDocs.Viewer")
 # GroupDocs.Viewer for .NET WPF Example
 ###### version 1.0.0
-
+![Build](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WPF/actions/workflows/dotnet-desktop.yml/badge.svg)
 [![GitHub license](https://img.shields.io/github/license/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WebForms.svg)](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WebForms/blob/master/LICENSE)
 
 ## System Requirements
