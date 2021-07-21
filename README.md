@@ -4,6 +4,8 @@
 ![Build](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WPF/actions/workflows/dotnet-desktop.yml/badge.svg)
 [![GitHub license](https://img.shields.io/github/license/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WebForms.svg)](https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET-WebForms/blob/master/LICENSE)
 
+:warning: **This repository has moved to https://github.com/groupdocs-viewer/GroupDocs.Viewer-for-.NET/tree/master/Demos/WPF**
+
 ## System Requirements
 - .NET Core 3.1
 - Visual Studio 2019
